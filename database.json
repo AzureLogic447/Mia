@@ -1,0 +1,18 @@
+{
+  "1489247571661689073": {
+    "xp": 318,
+    "level": 4,
+    "coins": 138,
+    "lastDaily": 1776069129118,
+    "warnings": [
+      {
+        "reason": "No reason provided",
+        "timestamp": 1776069450936
+      },
+      {
+        "reason": "fraud",
+        "timestamp": 1776069471417
+      }
+    ]
+  }
+}
